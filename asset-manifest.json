@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/music-company-website/static/css/main.b1a97cf3.chunk.css",
+    "main.js": "/music-company-website/static/js/main.b0d1ffff.chunk.js",
+    "main.js.map": "/music-company-website/static/js/main.b0d1ffff.chunk.js.map",
+    "runtime-main.js": "/music-company-website/static/js/runtime-main.7ba8fe98.js",
+    "runtime-main.js.map": "/music-company-website/static/js/runtime-main.7ba8fe98.js.map",
+    "static/js/2.5d02df91.chunk.js": "/music-company-website/static/js/2.5d02df91.chunk.js",
+    "static/js/2.5d02df91.chunk.js.map": "/music-company-website/static/js/2.5d02df91.chunk.js.map",
+    "index.html": "/music-company-website/index.html",
+    "static/css/main.b1a97cf3.chunk.css.map": "/music-company-website/static/css/main.b1a97cf3.chunk.css.map",
+    "static/js/2.5d02df91.chunk.js.LICENSE.txt": "/music-company-website/static/js/2.5d02df91.chunk.js.LICENSE.txt",
+    "static/media/art-1.e3ca20f7.png": "/music-company-website/static/media/art-1.e3ca20f7.png",
+    "static/media/art-2.c79d8421.png": "/music-company-website/static/media/art-2.c79d8421.png",
+    "static/media/art-3.1c5faaf6.png": "/music-company-website/static/media/art-3.1c5faaf6.png",
+    "static/media/art-4.b93c31d1.png": "/music-company-website/static/media/art-4.b93c31d1.png",
+    "static/media/art-5.fc64a4db.png": "/music-company-website/static/media/art-5.fc64a4db.png",
+    "static/media/art-6.fae26882.png": "/music-company-website/static/media/art-6.fae26882.png",
+    "static/media/art-7.1b9e250a.png": "/music-company-website/static/media/art-7.1b9e250a.png",
+    "static/media/art-8.ebf1e5d7.png": "/music-company-website/static/media/art-8.ebf1e5d7.png",
+    "static/media/index.css": "/music-company-website/static/media/bg-img.c965b427.png",
+    "static/media/blog-img-1.d47adeb8.png": "/music-company-website/static/media/blog-img-1.d47adeb8.png",
+    "static/media/blog-img-2.8a2a8008.png": "/music-company-website/static/media/blog-img-2.8a2a8008.png",
+    "static/media/blog-img-3.dd00f0d6.png": "/music-company-website/static/media/blog-img-3.dd00f0d6.png",
+    "static/media/blog-img-4.a8804ce2.png": "/music-company-website/static/media/blog-img-4.a8804ce2.png",
+    "static/media/img-1-tall.0b125e9c.png": "/music-company-website/static/media/img-1-tall.0b125e9c.png",
+    "static/media/img-1-wide.f58b2ea2.png": "/music-company-website/static/media/img-1-wide.f58b2ea2.png",
+    "static/media/img-2-tall.41351b17.png": "/music-company-website/static/media/img-2-tall.41351b17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ba8fe98.js",
+    "static/js/2.5d02df91.chunk.js",
+    "static/css/main.b1a97cf3.chunk.css",
+    "static/js/main.b0d1ffff.chunk.js"
+  ]
+}
