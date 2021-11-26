@@ -1,0 +1,46 @@
+.RedBtn,
+.GreyBtn,
+.GreenBtn {
+	margin-top: 15px;
+	padding: 8px 25px;
+	cursor: pointer;
+	border-radius: 0;
+	background-color: #f14a34;
+	border: none;
+	color: white;
+}
+
+.RedBtnSmall,
+.GreyBtnSmall,
+.GreenBtnSmall {
+	padding: 5px 15px;
+	cursor: pointer;
+	border-radius: 0;
+	background-color: #f14a34;
+	border: none;
+	color: white;
+}
+
+.RedBtn:hover,
+.GreenBtn:hover,
+.GreyBtn:hover {
+	box-shadow: inset 0 0 0 10em rgba(255, 255, 255, 0.3);
+}
+
+.GreyBtn {
+	background-color: #666060;
+}
+.GreenBtn {
+	background-color: #839836;
+}
+
+.ReadMore {
+	background-color: transparent;
+	color: #f14a34;
+	cursor: pointer;
+	border: none;
+}
+
+.ReadMore:hover {
+	color: #f88373;
+}

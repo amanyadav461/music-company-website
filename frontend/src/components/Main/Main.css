@@ -1,0 +1,182 @@
+.main {
+	transform: translateY(7%);
+}
+
+.MainWide-h2 {
+	color: white;
+}
+
+.MainWide-h2 {
+	font-size: 1rem;
+}
+
+.main-grey-p {
+	margin-top: 10px;
+}
+
+.flex-align-cen {
+	display: flex;
+	align-items: center;
+}
+
+.main-btm-head {
+	margin-bottom: 20px;
+}
+
+/* Styles for Main Bottom */
+.main-bottom {
+	justify-content: center;
+	display: flex;
+	padding-top: 60px;
+	width: 80%;
+	margin: 0 auto;
+	background-color: #191919;
+	padding-bottom: 60px;
+}
+
+.main-events {
+	width: 38%;
+	display: flex;
+	flex-direction: column;
+}
+
+.main-feat-head {
+	color: white;
+}
+
+.main-txt-red {
+	color: #ea4839;
+}
+
+.main-events,
+.main-btm-blog {
+	padding: 0 5px;
+}
+
+.main-btm-blog {
+	width: 44%;
+}
+
+.main-grey-text {
+	font-size: 0.8rem;
+}
+
+.main-tall-events {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+
+.main-grey-text,
+.main-grey-i,
+.main-grey-p,
+.mac-p {
+	color: #686868;
+}
+
+.main-grey-i {
+	font-size: 0.625rem;
+}
+
+.main-grey-p {
+	font-size: 0.8rem;
+}
+
+.main-grey-i-container {
+	margin-top: 5px;
+}
+
+.MainBlogCardContainer {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: auto;
+}
+
+.main-blog-container {
+	height: 600px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.blog-card-contents {
+	margin-left: 10px;
+}
+
+/* Styles for main-before-footer */
+.main-before-footer {
+	background-color: #1e1e1e;
+	width: 80%;
+	margin: 0 auto;
+	display: grid;
+	justify-items: center;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+	grid-column-gap: 0px;
+	grid-row-gap: 80px;
+	padding-top: 80px;
+	padding-bottom: 140px;
+}
+
+.mbf-card {
+	width: 75%;
+}
+
+.mbf-card-cont {
+	display: flex;
+	justify-content: space-between;
+}
+
+/* styles for MainArtistCardContainer = mac */
+.mac-view {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 40px;
+}
+
+.mac-view-btn,
+.mac-view-text {
+	height: 48px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.mac-view-btn {
+	background-color: #282828;
+	width: 25%;
+	color: #747474;
+	cursor: pointer;
+}
+
+.mac-view-text {
+	background-color: #131313;
+	width: 75%;
+	align-items: baseline;
+	padding-left: 5px;
+}
+
+.mac-h4 {
+	font-size: 0.7rem;
+	color: white;
+}
+
+.mac-p {
+	font-size: 0.7rem;
+}
+
+/* styles for ArtistCardHead */
+.ArtistCardHead {
+	color: white;
+	height: 3rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.ArtistCardHeadBtn {
+	margin-top: 0;
+}
